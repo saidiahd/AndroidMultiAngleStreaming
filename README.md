@@ -1,15 +1,14 @@
-MutliAngleVideoView - new way to see the worl
+MutliAngleVideoView - new way to see the world
 ================================
 
 
 
-The jQuery Validation Plugin provides drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy.
+This API will be included within the android API to enable App developers to create new streaming App with new perspective; the user can switch between the agles by which he watchs the vide sttreaming keeping the same content. j
 
-## [Help the project](http://pledgie.com/campaigns/18159)
+Help the project
 
-[![Help the project](http://www.pledgie.com/campaigns/18159.png?skin_name=chrome)](http://pledgie.com/campaigns/18159)
 
-This project is looking for help! [You can donate to the ongoing pledgie campaign](http://pledgie.com/campaigns/18159)
+This project is looking for new ideas. You can share it with us and try to  to the ongoing pledgie campaign](http://pledgie.com/campaigns/18159)
 and help spread the word. If you've used the plugin, or plan to use, consider a donation - any amount will help.
 
 You can find the plan for how to spend the money on the [pledgie page](http://pledgie.com/campaigns/18159).
