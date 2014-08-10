@@ -3,7 +3,7 @@ MutliAngleVideoView - new way to see the world
 
 
 
-This API will be included within the android API to enable App developers to create new streaming App with new perspective; the user can switch between the agles by which he watchs the video streaming keeping the same content.
+This API will be included within the android API to enable App developers to create new streaming App with new perspective; the user can enjoy new user experience; he will be able to switch between the angles by which he watchs the video streaming keeping the same content.
 
 ## Interact with the project
 
