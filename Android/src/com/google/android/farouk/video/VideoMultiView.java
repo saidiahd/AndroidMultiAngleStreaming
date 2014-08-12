@@ -24,6 +24,7 @@ public class VideoMultiView extends VideoView {
 		super(context);
 	}
 	
+	   @Override
 	public void setVideoURIs(Uri[]uri, Map<String, String>headers){
 		  mURIs = uri;
 		  
